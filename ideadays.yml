@@ -2,3 +2,7 @@
   text: "Tomorrow it's Willy's birthday (Koningsdag)! Go outside dressed in oranje! 👑"
   gif: "https://media.giphy.com/media/peEIOIdJJtaQK3wbKc/giphy.gif"
   daytowarn: 2024-04-26
+
+- reason: World Suicide Prevention Day
+  text: "Today is World Suicide Prevention Day. The aim is to focus attention on the issue, reduce stigma and raise awareness. Check out the WHO's webpage about the topic: https://www.who.int/campaigns/world-suicide-prevention-day/2023"
+  daytowarn: 2024-09-10
