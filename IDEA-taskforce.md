@@ -1,4 +1,4 @@
-In recent years, our group has remained continually dedicated to enhancing our collective awareness and improving the overall literacy on inclusive workspaces through the efforts of the Inclusion, Diversity, Equity, and Accountability (IDEA) task force. Our primary motivation in setting up such a working group was to promote a shared vision of what our research group viewed our workplace as, i.e., a safe space where ideas, suggestions, and conversations are always welcomed.
+In recent years, our group has remained continually dedicated to enhance our collective awareness and improve the overall literacy on inclusive workspaces through the efforts of the Inclusion, Diversity, Equity, and Accountability (IDEA) task force. Our primary motivation in setting up such a working group is to promote a shared vision of what our research group viewed our workplace as, i.e., a safe space where ideas, suggestions, and conversations are always welcomed.
 
 [add a picture of the working group here]
 
